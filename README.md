@@ -1,6 +1,6 @@
 # Ideal, Natural, & Flat-top -Sampling
-# NAME:KRITHIKA SHERIN A.O
-# 212224060129
+# NAME: KRITHIKA SHERIN A.O
+# REG NO: 212224060129
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
